@@ -5,3 +5,5 @@
 
 
 ## Running 
+
+`python .\process.py`
