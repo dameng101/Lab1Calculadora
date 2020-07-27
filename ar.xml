@@ -24,3 +24,5 @@
         <description>&#13;
 Profile: InSpec Profile (oscal_test)&#13;
 Version: 0.1.0&#13;
+Target:  local://&#13;
+&#13;
