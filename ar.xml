@@ -14,3 +14,6 @@
     <start>2021-05-03T16:48:21.531544</start>
     <reviewed-controls>
       <control-selection>
+        <include-all/>
+      </control-selection>
+    </reviewed-controls>
