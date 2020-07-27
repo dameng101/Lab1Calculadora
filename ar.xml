@@ -17,3 +17,10 @@
         <include-all/>
       </control-selection>
     </reviewed-controls>
+    <observation uuid="eb681ebc-6b7e-4f82-9356-ead2c4909587">
+      <description>N/A</description>
+      <method>Inspec</method>
+      <relevant-evidence href="N/A">
+        <description>&#13;
+Profile: InSpec Profile (oscal_test)&#13;
+Version: 0.1.0&#13;
