@@ -26,3 +26,4 @@ Profile: InSpec Profile (oscal_test)&#13;
 Version: 0.1.0&#13;
 Target:  local://&#13;
 &#13;
+[0;1;32m  [PASS]  rsch-1: Connect to Research Source[0m&#13;
