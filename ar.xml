@@ -36,3 +36,6 @@ Test Summary: [0;1;32m1 successful[0m, 0 failures, 0 skipped&#13;
       </relevant-evidence>
       <collected>2021-05-03T16:48:21.531544</collected>
     </observation>
+    <finding uuid="f81e47ee-8752-46d3-a6c3-ce4a199e93ac">
+      <title>Result</title>
+      <description>N/A</description>
