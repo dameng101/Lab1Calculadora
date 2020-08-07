@@ -30,3 +30,5 @@ Target:  local://&#13;
 [0;1;32m     [PASS]  Host stackoverflow.com port 80 proto tcp is expected to be reachable[0m&#13;
 &#13;
 &#13;
+Profile Summary: [0;1;32m1 successful control[0m, 0 control failures, 0 controls skipped&#13;
+Test Summary: [0;1;32m1 successful[0m, 0 failures, 0 skipped&#13;
