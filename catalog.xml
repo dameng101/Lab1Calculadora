@@ -17,3 +17,5 @@
       <title>Access Research Resources</title>
       <prop name="label" value="rsch"/>
       <control id="rsch-1">
+        <title>Access to Stack Overflow</title>
+        <part id="s1.1.1_inf" name="information">
