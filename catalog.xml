@@ -19,3 +19,4 @@
       <control id="rsch-1">
         <title>Access to Stack Overflow</title>
         <part id="s1.1.1_inf" name="information">
+           <prop name="label" value="Other information"/>
