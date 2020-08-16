@@ -11,3 +11,6 @@
       <oscal-version>1.0.0-rc2</oscal-version>
       <remarks>
          <p>This Catalog contains a few made up controls</p>
+      </remarks>
+   </metadata>
+   <group id="research">
