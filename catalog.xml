@@ -20,3 +20,5 @@
         <title>Access to Stack Overflow</title>
         <part id="s1.1.1_inf" name="information">
            <prop name="label" value="Other information"/>
+           <p>Good Engineers use Stack Overflow to find solutions to common programming and IT problems.</p>
+        </part>
