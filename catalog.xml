@@ -22,3 +22,6 @@
            <prop name="label" value="Other information"/>
            <p>Good Engineers use Stack Overflow to find solutions to common programming and IT problems.</p>
         </part>
+     </control>
+   </group>
+</catalog>
