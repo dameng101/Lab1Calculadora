@@ -3,3 +3,5 @@
 <component-definition xmlns="http://csrc.nist.gov/ns/oscal/1.0"
                       uuid="8223d65f-57a9-4689-8f06-2a975ae2ad72">
    <metadata>
+      <title>Test Component Definition</title>
+      <last-modified>2021-04-07T12:50:10.241-04:00</last-modified>
