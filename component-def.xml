@@ -7,3 +7,5 @@
       <last-modified>2021-04-07T12:50:10.241-04:00</last-modified>
       <version>20200723</version>
       <oscal-version>1.0.0-rc2</oscal-version>
+      <party uuid="ee47836c-877c-4007-bbf3-c9d9bd805a9a" type="organization">
+         <name>Test Vendor</name>
