@@ -13,3 +13,5 @@
    </metadata>
    <component uuid="b036a6ac-6cff-4066-92bc-74ddfd9ad6fa" type="workstation">
       <title>Internet access</title>
+      <description>
+         <p>Connects to the internet</p>
