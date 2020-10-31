@@ -20,3 +20,5 @@
                 source="./profile.xml">
             <implemented-requirement uuid="d1016df0-9b5c-4839-86cd-f9c1d113077b" control-id="rsch-1">
                 <description>
+                    <p>User can access https://stackoverflow.com/</p>
+                </description>
