@@ -16,3 +16,7 @@
       <description>
          <p>Connects to the internet</p>
       </description>
+      <control-implementation uuid="cfcdd674-8595-4f98-a9d1-3ac70825c49f"
+                source="./profile.xml">
+            <implemented-requirement uuid="d1016df0-9b5c-4839-86cd-f9c1d113077b" control-id="rsch-1">
+                <description>
