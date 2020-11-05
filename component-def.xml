@@ -30,3 +30,5 @@
                     </remarks>
                 </prop>
             </implemented-requirement>
+        </control-implementation>
+   </component>
