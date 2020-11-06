@@ -34,3 +34,5 @@
    </component>
    <capability uuid="a63b7248-415f-4abc-8cc1-7c04e34e4d43" source="./profile.xml">
         <description>Encompasses all the qualities of a workstation</description>
+        <incorporates-component component-uuid="b036a6ac-6cff-4066-92bc-74ddfd9ad6fa" />   
+    </capability>
