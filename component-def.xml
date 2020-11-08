@@ -37,3 +37,5 @@
         <incorporates-component component-uuid="b036a6ac-6cff-4066-92bc-74ddfd9ad6fa" />   
     </capability>
     <back-matter>
+        <resource uuid="cfe84d20-916d-4385-b004-ba303a794d88">
+           <rlink href="./oscal_test"/>
