@@ -9,3 +9,4 @@ control "rsch-1" do
     it { should be_reachable }
   end
 end
+
