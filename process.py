@@ -7,3 +7,7 @@ from uuid import uuid4
 from datetime import datetime
 import re
 
+
+## Load files 
+oscal = OSCAL()
+oscal.parse_file('component-def.xml')
