@@ -13,3 +13,4 @@ oscal = OSCAL()
 oscal.parse_file('component-def.xml')
 oscal.parse_file('ssp.xml')
 cdef = oscal.objects['Component_Definition'][0]
+ssp = oscal.objects['System_Security_Plan'][0]
