@@ -26,3 +26,6 @@ for comp in ssp_components:
 ## find assessment links 
 references = {}
 bm = cdef.back_matter
+for resource in bm.resource:
+    for rlink in resource.rlink:
+        references[resource.uuid.prose] = rlink.href.prose
