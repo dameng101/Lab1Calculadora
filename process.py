@@ -20,3 +20,5 @@ implemented_components = []
 control_implementation = ssp.control_implementation
 ssp_components = control_implementation.implemented_requirement[0].by_component
 for comp in ssp_components:
+    implemented_components += [comp.component_uuid.prose]
+# sys.exit()
