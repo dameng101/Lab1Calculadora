@@ -36,3 +36,4 @@ components = cdef.component
 for component in components:
     if component.uuid.prose in implemented_components:
         for contimp in component.control_implementation:
+            for impreq in contimp.implemented_requirement:
