@@ -29,3 +29,7 @@ bm = cdef.back_matter
 for resource in bm.resource:
     for rlink in resource.rlink:
         references[resource.uuid.prose] = rlink.href.prose
+
+## find components 
+inspec_jobs = []
+components = cdef.component 
