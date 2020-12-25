@@ -37,3 +37,6 @@ for component in components:
     if component.uuid.prose in implemented_components:
         for contimp in component.control_implementation:
             for impreq in contimp.implemented_requirement:
+                for prop in impreq.prop:
+                    if prop.name.prose.startswith('inspec'):
+                        if not isinstance(prop.remarks, list):
