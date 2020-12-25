@@ -40,3 +40,4 @@ for component in components:
                 for prop in impreq.prop:
                     if prop.name.prose.startswith('inspec'):
                         if not isinstance(prop.remarks, list):
+                            prop.remarks = [prop.remarks]
