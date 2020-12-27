@@ -65,3 +65,5 @@ for job in inspec_jobs:
         output = subprocess.check_output(
             "inspec exec {0} {1} --controls {2}".format(
                 job['profile'],
+                inputs,
+                control['control']
