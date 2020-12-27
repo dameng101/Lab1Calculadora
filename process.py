@@ -45,3 +45,5 @@ for component in components:
                             inspect_job = {
                                 'requirement': impreq.uuid.prose,
                                 'profile': references[prop.value.prose],
+                                'definition': yaml.safe_load(control.prose)
+                            }
