@@ -47,3 +47,5 @@ for component in components:
                                 'profile': references[prop.value.prose],
                                 'definition': yaml.safe_load(control.prose)
                             }
+                            inspec_jobs += [inspect_job]
+results = {}
