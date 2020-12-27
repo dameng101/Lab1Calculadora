@@ -54,3 +54,8 @@ for job in inspec_jobs:
     inputs = ""
     for control in job['definition']:
         for inp in control['inputs']:
+            inputs += " --input {}={}".format(inp,control['inputs'][inp])
+        # print (
+        #     "inspec exec {0} {1} --controls {2}".format(
+        #         job['profile'],
+        #         inputs,
