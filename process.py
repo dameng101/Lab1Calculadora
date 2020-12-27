@@ -59,3 +59,5 @@ for job in inspec_jobs:
         #     "inspec exec {0} {1} --controls {2}".format(
         #         job['profile'],
         #         inputs,
+        #         control['control']
+        #     )
