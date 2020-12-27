@@ -52,3 +52,5 @@ results = {}
 
 for job in inspec_jobs:
     inputs = ""
+    for control in job['definition']:
+        for inp in control['inputs']:
