@@ -49,3 +49,6 @@ for component in components:
                             }
                             inspec_jobs += [inspect_job]
 results = {}
+
+for job in inspec_jobs:
+    inputs = ""
