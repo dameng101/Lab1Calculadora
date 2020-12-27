@@ -41,3 +41,7 @@ for component in components:
                     if prop.name.prose.startswith('inspec'):
                         if not isinstance(prop.remarks, list):
                             prop.remarks = [prop.remarks]
+                        for control in prop.remarks:
+                            inspect_job = {
+                                'requirement': impreq.uuid.prose,
+                                'profile': references[prop.value.prose],
