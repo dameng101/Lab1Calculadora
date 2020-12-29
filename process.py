@@ -67,3 +67,5 @@ for job in inspec_jobs:
                 job['profile'],
                 inputs,
                 control['control']
+            ), shell=True
+        ).decode('utf-8')
