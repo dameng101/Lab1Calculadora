@@ -69,3 +69,4 @@ for job in inspec_jobs:
                 control['control']
             ), shell=True
         ).decode('utf-8')
+        results[job['requirement']] =  re.sub(u'[^\u0020-\uD7FF\u0009\u000A\u000D\uE000-\uFFFD\U00010000-\U0010FFFF]+', '', output)
