@@ -73,3 +73,6 @@ for job in inspec_jobs:
 
 output
 print (results)
+
+## Create Plan
+title = oscal_metadata.Title.Title(prose="Assessment Plan")
