@@ -86,3 +86,5 @@ metadata = oscal_metadata.Metadata.Metadata(
             version=version,
             oscal_version=oscal_version,
         )
+import_ssp = oscal_assessment_common.Import_Ssp.Import_Ssp(
+    href=oscal_assessment_common.Href.Href(prose='./ssp.xml')
