@@ -83,3 +83,6 @@ uuid = oscal_metadata.Uuid.Uuid(prose=str(uuid4()))
 metadata = oscal_metadata.Metadata.Metadata(
             title=title,
             last_modified=last_modified,
+            version=version,
+            oscal_version=oscal_version,
+        )
