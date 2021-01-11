@@ -90,3 +90,5 @@ import_ssp = oscal_assessment_common.Import_Ssp.Import_Ssp(
     href=oscal_assessment_common.Href.Href(prose='./ssp.xml')
 )
 control_selection = oscal_assessment_common.Control_Selection.Control_Selection(
+    include_all=oscal_assessment_common.Include_All.Include_All(),
+    include_control=None
