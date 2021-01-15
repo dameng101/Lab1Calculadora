@@ -94,3 +94,5 @@ control_selection = oscal_assessment_common.Control_Selection.Control_Selection(
     include_control=None
 )
 reviewed_controls = oscal_assessment_common.Reviewed_Controls.Reviewed_Controls(
+    control_selection=control_selection
+)
