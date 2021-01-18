@@ -104,3 +104,6 @@ ap = oscal_ap.Assessment_Plan.Assessment_Plan(
 )
 oscal.add_model(ap)
 
+
+## Create Result
+title = oscal_metadata.Title.Title(prose="Assessment Results")
