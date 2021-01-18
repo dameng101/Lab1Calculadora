@@ -112,3 +112,5 @@ version = oscal_metadata.Version.Version(prose=str(datetime.now().strftime('%Y%m
 oscal_version = oscal_metadata.Oscal_Version.Oscal_Version(prose=str(datetime.now().isoformat()))
 uuid = oscal_metadata.Uuid.Uuid(prose=str(uuid4()))
 metadata = oscal_metadata.Metadata.Metadata(
+    title=title,
+    last_modified=last_modified,
