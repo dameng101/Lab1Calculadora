@@ -100,3 +100,6 @@ ap = oscal_ap.Assessment_Plan.Assessment_Plan(
     uuid=uuid,
     metadata=metadata,
     import_ssp=import_ssp,
+    reviewed_controls=reviewed_controls
+)
+oscal.add_model(ap)
