@@ -97,3 +97,4 @@ reviewed_controls = oscal_assessment_common.Reviewed_Controls.Reviewed_Controls(
     control_selection=control_selection
 )
 ap = oscal_ap.Assessment_Plan.Assessment_Plan(
+    uuid=uuid,
