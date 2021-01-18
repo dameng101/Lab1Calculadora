@@ -98,3 +98,5 @@ reviewed_controls = oscal_assessment_common.Reviewed_Controls.Reviewed_Controls(
 )
 ap = oscal_ap.Assessment_Plan.Assessment_Plan(
     uuid=uuid,
+    metadata=metadata,
+    import_ssp=import_ssp,
