@@ -107,3 +107,6 @@ oscal.add_model(ap)
 
 ## Create Result
 title = oscal_metadata.Title.Title(prose="Assessment Results")
+last_modified = oscal_metadata.Last_Modified.Last_Modified(prose=str(datetime.now().isoformat()))
+version = oscal_metadata.Version.Version(prose=str(datetime.now().strftime('%Y%m%d')))
+oscal_version = oscal_metadata.Oscal_Version.Oscal_Version(prose=str(datetime.now().isoformat()))
