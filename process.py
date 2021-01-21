@@ -119,3 +119,6 @@ metadata = oscal_metadata.Metadata.Metadata(
 )
 
 import_ap = oscal_ar.Import_Ap.Import_Ap(
+    href=oscal_ar.Href.Href(prose='./ap.xml')
+)
+control_selection = oscal_assessment_common.Control_Selection.Control_Selection(
