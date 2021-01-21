@@ -116,3 +116,6 @@ metadata = oscal_metadata.Metadata.Metadata(
     last_modified=last_modified,
     version=version,
     oscal_version=oscal_version,
+)
+
+import_ap = oscal_ar.Import_Ap.Import_Ap(
