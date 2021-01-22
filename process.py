@@ -124,3 +124,5 @@ import_ap = oscal_ar.Import_Ap.Import_Ap(
 control_selection = oscal_assessment_common.Control_Selection.Control_Selection(
     include_all=oscal_assessment_common.Include_All.Include_All(),
     include_control=None
+)
+reviewed_controls = oscal_assessment_common.Reviewed_Controls.Reviewed_Controls(
