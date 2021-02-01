@@ -132,3 +132,7 @@ reviewed_controls = oscal_assessment_common.Reviewed_Controls.Reviewed_Controls(
 finding = oscal_ar.Finding.Finding(
     uuid=oscal_metadata.Uuid.Uuid(prose=str(uuid4())),
     title=oscal_metadata.Title.Title(prose="Result"),
+    description=oscal_ar.Description.Description(prose="N/A"),
+)
+
+observations = []
