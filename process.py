@@ -137,3 +137,7 @@ finding = oscal_ar.Finding.Finding(
 
 observations = []
 for result in results:
+    relevant_evidence = oscal_assessment_common.Relevant_Evidence.Relevant_Evidence(
+        href=oscal_ar.Href.Href(prose='N/A'),
+        description=oscal_ar.Description.Description(prose=results[result]),
+    )
