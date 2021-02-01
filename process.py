@@ -145,3 +145,4 @@ for result in results:
         oscal_assessment_common.Observation.Observation(
             uuid=oscal_metadata.Uuid.Uuid(prose=str(uuid4())),
             description=oscal_ar.Description.Description(prose="N/A"),
+            method=oscal_assessment_common.Method.Method(prose="Inspec"),
