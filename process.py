@@ -136,3 +136,4 @@ finding = oscal_ar.Finding.Finding(
 )
 
 observations = []
+for result in results:
