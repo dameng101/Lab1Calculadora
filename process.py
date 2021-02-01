@@ -148,3 +148,5 @@ for result in results:
             method=oscal_assessment_common.Method.Method(prose="Inspec"),
             collected=oscal_assessment_common.Collected.Collected(prose=str(datetime.now().isoformat())),
             relevant_evidence=relevant_evidence
+        )
+    ]
