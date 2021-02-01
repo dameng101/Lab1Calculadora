@@ -152,3 +152,4 @@ for result in results:
     ]
 
 result = oscal_ar.Result.Result(
+    uuid=oscal_ar.Uuid.Uuid(prose=str(uuid4())),
