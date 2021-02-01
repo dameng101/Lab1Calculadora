@@ -146,3 +146,5 @@ for result in results:
             uuid=oscal_metadata.Uuid.Uuid(prose=str(uuid4())),
             description=oscal_ar.Description.Description(prose="N/A"),
             method=oscal_assessment_common.Method.Method(prose="Inspec"),
+            collected=oscal_assessment_common.Collected.Collected(prose=str(datetime.now().isoformat())),
+            relevant_evidence=relevant_evidence
