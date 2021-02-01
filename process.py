@@ -150,3 +150,5 @@ for result in results:
             relevant_evidence=relevant_evidence
         )
     ]
+
+result = oscal_ar.Result.Result(
