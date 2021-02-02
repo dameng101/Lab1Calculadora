@@ -153,3 +153,7 @@ for result in results:
 
 result = oscal_ar.Result.Result(
     uuid=oscal_ar.Uuid.Uuid(prose=str(uuid4())),
+    title=oscal_ar.Title.Title(prose=str('Assessment Results')),
+    description=oscal_ar.Description.Description(prose=str('Assessment Results')),
+    start=oscal_ar.Start.Start(prose=str(datetime.now().isoformat())),
+    reviewed_controls=reviewed_controls,
