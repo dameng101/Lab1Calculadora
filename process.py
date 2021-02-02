@@ -157,3 +157,6 @@ result = oscal_ar.Result.Result(
     description=oscal_ar.Description.Description(prose=str('Assessment Results')),
     start=oscal_ar.Start.Start(prose=str(datetime.now().isoformat())),
     reviewed_controls=reviewed_controls,
+    finding=finding,
+    observation=observations
+)
