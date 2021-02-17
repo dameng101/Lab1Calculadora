@@ -160,3 +160,5 @@ result = oscal_ar.Result.Result(
     finding=finding,
     observation=observations
 )
+
+ar = oscal_ar.Assessment_Results.Assessment_Results(
