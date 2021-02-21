@@ -166,3 +166,4 @@ ar = oscal_ar.Assessment_Results.Assessment_Results(
     metadata=metadata,
     import_ap=import_ap,
     result=result
+)
