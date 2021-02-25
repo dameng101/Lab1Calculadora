@@ -167,3 +167,4 @@ ar = oscal_ar.Assessment_Results.Assessment_Results(
     import_ap=import_ap,
     result=result
 )
+oscal.add_model(ar)
