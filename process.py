@@ -168,3 +168,6 @@ ar = oscal_ar.Assessment_Results.Assessment_Results(
     result=result
 )
 oscal.add_model(ar)
+
+out_text = oscal.export(
+    uuid=uuid.prose
