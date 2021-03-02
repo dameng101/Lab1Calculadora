@@ -171,3 +171,5 @@ oscal.add_model(ar)
 
 out_text = oscal.export(
     uuid=uuid.prose
+)
+print(out_text)
