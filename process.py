@@ -173,3 +173,5 @@ out_text = oscal.export(
     uuid=uuid.prose
 )
 print(out_text)
+with open('ar.xml','w') as f:
+    f.write(out_text)
