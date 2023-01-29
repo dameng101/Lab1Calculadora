@@ -7,3 +7,6 @@
       <last-modified>2021-04-07T12:50:10.241-04:00</last-modified>
       <version>1.0</version>
       <oscal-version>1.0.0-rc2</oscal-version>
+   </metadata>
+   <import-profile href="./profile.xml"/>
+   <system-characteristics>
