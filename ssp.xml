@@ -11,3 +11,6 @@
    <import-profile href="./profile.xml"/>
    <system-characteristics>
     <system-id identifier-type="https://ietf.org/rfc/rfc4122">d7456980-9277-4dcb-83cf-f8ff0442623b</system-id>
+    <system-name>Engineer Workstation</system-name>
+    <description><p>This is a representatation of a common workstation</p></description>
+    <security-sensitivity-level>moderate</security-sensitivity-level>
