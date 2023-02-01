@@ -14,3 +14,4 @@
     <system-name>Engineer Workstation</system-name>
     <description><p>This is a representatation of a common workstation</p></description>
     <security-sensitivity-level>moderate</security-sensitivity-level>
+    <system-information>
