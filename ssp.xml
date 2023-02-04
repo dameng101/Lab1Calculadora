@@ -15,3 +15,4 @@
     <description><p>This is a representatation of a common workstation</p></description>
     <security-sensitivity-level>moderate</security-sensitivity-level>
     <system-information>
+       <information-type uuid="7d28ac6e-5970-4f4c-a508-5a3715f0f02b">
