@@ -23,3 +23,4 @@
           <confidentiality-impact><base>fips-199-low</base></confidentiality-impact>
           <integrity-impact><base>fips-199-low</base></integrity-impact>
           <availability-impact><base>fips-199-low</base></availability-impact>
+       </information-type>
