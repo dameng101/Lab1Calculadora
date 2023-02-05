@@ -17,3 +17,6 @@
     <system-information>
        <information-type uuid="7d28ac6e-5970-4f4c-a508-5a3715f0f02b">
           <title>System and Network Monitoring</title>
+          <description>
+             <p>This system maintains historical logging and auditing information for all client devices connected to this system.</p>
+          </description>
