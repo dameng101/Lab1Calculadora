@@ -26,3 +26,5 @@
        </information-type>
     </system-information>
     <security-impact-level>
+       <security-objective-confidentiality>fips-199-low</security-objective-confidentiality>
+       <security-objective-integrity>fips-199-low</security-objective-integrity>
