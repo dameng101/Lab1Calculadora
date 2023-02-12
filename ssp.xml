@@ -28,3 +28,5 @@
     <security-impact-level>
        <security-objective-confidentiality>fips-199-low</security-objective-confidentiality>
        <security-objective-integrity>fips-199-low</security-objective-integrity>
+       <security-objective-availability>fips-199-low</security-objective-availability>
+    </security-impact-level>
