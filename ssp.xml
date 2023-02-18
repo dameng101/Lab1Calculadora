@@ -33,3 +33,5 @@
     <status state="other"/>
     <authorization-boundary>
        <description><p>Not Applicable</p></description>
+    </authorization-boundary>
+ </system-characteristics>
