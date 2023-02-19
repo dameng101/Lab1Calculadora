@@ -38,3 +38,6 @@
  <system-implementation>
     <user uuid="9824089b-322c-456f-86c4-4111c4200f69"/>
     <component uuid="e00acdcf-911b-437d-a42f-b0b558cc4f03" type="software">
+       <title>Internet access</title>
+       <description>
+          <p>Ensures engineers can perform research</p>
