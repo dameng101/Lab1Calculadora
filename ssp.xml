@@ -42,3 +42,5 @@
        <description>
           <p>Ensures engineers can perform research</p>
        </description>
+       <status state="operational"/>
+    </component>
